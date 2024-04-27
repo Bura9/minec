@@ -1,0 +1,8 @@
+BuraGhosty:
+  Amount: 1
+  Items:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 3465
+      type: ROTTEN_FLESH
+      amount: 12
